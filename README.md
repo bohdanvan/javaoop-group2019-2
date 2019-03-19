@@ -19,6 +19,8 @@ Prog.kiev.ua. Java OOP. Группа 84
 
 [Примеры тем курсового проекта](https://docs.google.com/document/d/1pYon-L6ZfPaYPiPBSg0tPbs6HT5B-LKSLjybU08STX8/edit?usp=sharing)
 
+[Таблица курсовго проекта](https://docs.google.com/spreadsheets/d/1p_z2MVyyRu8n7TG4q6HcDFAfRwy-dpgCSBi_fZVpXHo/edit?usp=sharing)
+
 Распределение тем на курсовой проект (coming soon)
 
 ## Примеры решения задач
