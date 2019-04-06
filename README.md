@@ -25,8 +25,6 @@ Prog.kiev.ua. Java OOP. Группа 84
 
 [Таблица курсовго проекта](https://docs.google.com/spreadsheets/d/1p_z2MVyyRu8n7TG4q6HcDFAfRwy-dpgCSBi_fZVpXHo/edit?usp=sharing)
 
-Распределение тем на курсовой проект (coming soon)
-
 ## Примеры решения задач
 
 https://github.com/bohdanvan/javaoop
