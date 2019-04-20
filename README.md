@@ -11,6 +11,10 @@ Prog.kiev.ua. Java OOP. Группа 84
 
 [Java OOP. Богдан. Группа 2019-2. Лекции 5-6 (06.04.2019)](https://prog.kiev.ua/forum/index.php/board,2.0.html)
 
+[Java OOP. Богдан. Группа 2019-2. Лекции 7-8 (13.04.2019)](https://prog.kiev.ua/forum/index.php/topic,4221.0.html)
+
+[Java OOP. Богдан. Группа 2019-2. Лекции 9-10 (20.04.2019)](https://prog.kiev.ua/forum/index.php/topic,4229.0.html)
+
 ## Запуск проекта локально в Intellij IDEA
 
 1. Скачать исходный код в виде архива (кнопка **Clone or download**).
