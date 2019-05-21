@@ -3,7 +3,7 @@ Prog.kiev.ua. Java OOP. Группа 84
 
 ## Cсылки на форум
 
-[Java OOP. Богдан. Группа 2019-2. Лекция 0 (09.02.2019) \[замена: Всеволод\]](https://prog.kiev.ua/forum/index.php/topic,4178.0.html)
+[Java OOP. Богдан. Группа 2019-2. Лекция 0 (09.03.2019) \[замена: Всеволод\]](https://prog.kiev.ua/forum/index.php/topic,4178.0.html)
 
 [Java OOP. Богдан. Группа 2019-2. Лекции 1-2 (16.03.2019) ](https://prog.kiev.ua/forum/index.php/topic,4188.0.html)
 
